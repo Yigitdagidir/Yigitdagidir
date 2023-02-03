@@ -18,4 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yigitdagidir&show_icons=true" />
 </picture>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gtdagidir&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8c00ff&bar_color=d4ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gtdagidir&redirect=true)
+
 
