@@ -21,3 +21,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gtdagidir&cover_image=true&theme=default&show_offline=false&background_color=8c00ff&bar_color=d4ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gtdagidir&redirect=true)
 
 <img src='https://random-memer-1.yigitdagidir.repl.co/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yigitdagidir&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
